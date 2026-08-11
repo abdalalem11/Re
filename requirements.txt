@@ -23,12 +23,12 @@ gitpython
 google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
-googletrans==3.1.0a0
+googletrans==4.0.2
 gtts
 hachoir
 heroku3
 html-telegraph-poster
-httpx==0.13.3
+httpx[http2]==0.27.2
 humanize
 ipaddress
 img2html
@@ -46,6 +46,7 @@ Pillow
 prettytable
 psutil
 psycopg2
+py-tgcalls==0.9.7
 pyfiglet
 PyGithub
 pygments
