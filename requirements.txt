@@ -28,7 +28,7 @@ gtts
 hachoir
 heroku3
 html-telegraph-poster
-httpx[http2]
+httpx[http2]==0.27.2
 humanize
 ipaddress
 img2html
@@ -75,7 +75,7 @@ user_agent
 validators
 vcsi
 wand
-python-telegram-bot
+python-telegram-bot==13.15
 wget
 youtube-search-python==1.4.9
 youtube-search
