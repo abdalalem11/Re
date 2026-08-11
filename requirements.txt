@@ -46,7 +46,7 @@ Pillow
 prettytable
 psutil
 psycopg2
-py-tgcalls==0.9.7
+py-tgcalls==1.2.9
 pyfiglet
 PyGithub
 pygments
