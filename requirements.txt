@@ -28,7 +28,7 @@ gtts
 hachoir
 heroku3
 html-telegraph-poster
-httpx[http2]==0.27.2
+httpx==0.13.3
 humanize
 ipaddress
 img2html
@@ -46,7 +46,6 @@ Pillow
 prettytable
 psutil
 psycopg2
-py-tgcalls==1.2.9
 pyfiglet
 PyGithub
 pygments
