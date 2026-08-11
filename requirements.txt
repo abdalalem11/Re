@@ -33,7 +33,7 @@ humanize>=4.12.3
 ipaddress>=1.0.23
 img2html>=0.0.3
 jikanpy>=4.3.2
-justwatch>=0.7.0
+justwatch==0.5.1
 kvsqlite>=0.2.1
 lottie>=0.7.2
 lyricsgenius>=3.0.1
@@ -73,7 +73,7 @@ ujson>=5.11.0
 urlextract>=1.9.0
 user_agent>=0.0.1
 validators>=0.35.0
-vcsi>=6.0.0
+vcsi>=6.0.1
 wand>=0.6.13
 python-telegram-bot>=22.5
 wget>=3.2
