@@ -56,7 +56,7 @@ py-tgcalls==2.3.3
 pyfiglet==1.0.2
 PyGithub==2.7.0
 pygments==2.19.2
-pylast==6.0.1
+pylast==6.0.0
 pymediainfo==7.0.1
 pyquery==2.0.0
 pyrogram==2.0.106
