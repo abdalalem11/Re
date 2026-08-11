@@ -23,7 +23,7 @@ ffmpeg-python==0.2.0
 geopy==2.4.1
 gitpython==3.1.45
 
-google-api-python-client==2.180.0
+google-api-python-client==2.179.0
 google-auth-httplib2==0.2.0
 google-auth-oauthlib==1.2.2
 googletrans==4.0.2
