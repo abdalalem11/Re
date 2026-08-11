@@ -80,7 +80,7 @@ telegraph==2.2.0
 tgcrypto==1.2.5
 ujson==5.11.0
 urlextract==1.9.0
-user_agent==0.0.1
+user_agent==0.0.14
 validators==0.35.0
 vcsi==6.0.1
 wand==0.6.13
